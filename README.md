@@ -11,7 +11,7 @@ My name is Evgeniia Shustova. I am a data scientist and researcher with a robust
   - NumPy
   - Scikit-learn
 
-- **Also:**
+- **I also understand:**
   - Data Analysis
   - Machine Learning
   - Natural Language Processing (NLP)
