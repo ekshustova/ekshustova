@@ -18,7 +18,7 @@ My name is Evgeniia Shustova. I am a data scientist and researcher with a robust
   - SQL
 
 ## Education
-- **Incomplete higher:**
+- **Bachalor degree:**
   - HSE University (Faculty of Informatics, Mathematics, and Computer Science)
  
 - **Professional development, courses:**
