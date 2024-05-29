@@ -19,7 +19,7 @@ My name is Evgeniia Shustova. I am a data scientist and researcher with a robust
 
 ## Education
 - **Incomplete higher:**
-  - HSE University
+  - HSE University (Faculty of Informatics, Mathematics, and Computer Science)
  
 - **Professional development, courses:**
   - Minor "Data Science"
