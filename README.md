@@ -14,18 +14,18 @@ My name is Evgeniia Shustova. I am a data scientist and researcher with a robust
 - **I also understand:**
   - Data Analysis
   - Machine Learning
-  - Natural Language Processing (NLP)
+  - Deep learning
   - SQL
 
 ## Education
-- **Bachalor degree:**
+- **Bachelor's degree:**
   - HSE University (Faculty of Informatics, Mathematics, and Computer Science)
  
 - **Professional development, courses:**
-  - Minor "Data Science"
-  - Data analysis in the industry
-  - Toric topology and combinatorics
-  - Physics and Mathematics
+  - Minor "Data Science"/"Intellectual data analysis"
+  - Tinkoff course "Data analysis in the industry"
+  - Sirius University "Toric topology and combinatorics"
+  - MIPT course "Physics and Mathematics"
 
 ## Connect with Me
 
