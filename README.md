@@ -9,7 +9,7 @@
 - **Bachelor's degree:**
   - HSE University (Faculty of Informatics, Mathematics, and Computer Science) - Fundamental Mathematics
  
-- **Master's degree
+- **Master's degree**
   - HSE University & Skoltech (Faculty of Computer Science) - Math of Machine Learning
     
  
