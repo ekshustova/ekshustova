@@ -1,25 +1,17 @@
-<h1 align="center">Hi, I'm Jenny :wave:</h1>
-
-## About Me
-My name is Evgeniia Shustova. I am a data scientist and researcher with a robust background in mathematical analysis, data science, and machine learning.
-
 ## Skills
 
 - **Programming Languages & Libraries:**
   - Python
-  - Pandas
-  - NumPy
-  - Scikit-learn
-
-- **I also understand:**
-  - Data Analysis
   - Machine Learning
   - Deep learning
-  - SQL
 
 ## Education
 - **Bachelor's degree:**
-  - HSE University (Faculty of Informatics, Mathematics, and Computer Science)
+  - HSE University (Faculty of Informatics, Mathematics, and Computer Science) - Fundamental Mathematics
+ 
+- **Master's degree
+  - HSE University & Skoltech (Faculty of Computer Science) - Math of Machine Learning
+    
  
 - **Professional development, courses:**
   - Minor "Data Science"/"Intellectual data analysis"
