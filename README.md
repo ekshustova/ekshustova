@@ -1,9 +1,4 @@
-## Skills
-
-- **Programming Languages & Libraries:**
-  - Python
-  - Machine Learning
-  - Deep learning
+## Recommender systems
 
 ## Education
 - **Bachelor's degree:**
@@ -14,10 +9,9 @@
     
  
 - **Professional development, courses:**
-  - Minor "Data Science"/"Intellectual data analysis"
+  - "Data Science - HSE"
   - Tinkoff course "Data analysis in the industry"
   - Sirius University "Toric topology and combinatorics"
-  - MIPT course "Physics and Mathematics"
 
 ## Connect with Me
 
